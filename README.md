@@ -7,13 +7,13 @@ Program sederhana Aplikasi Iuran Kas RT menggunakan Ajax dengan CodeIgniter4.
 ### Clone the repository:
 
 ```
-git clone https://github.com/yeremiaraulandreas/iuran_kas.git
+git clone https://github.com/Dheaapisca/lab_uas_web_TI19B2.git
 ```
 
-### Pindah ke directory iuran_kas:
+### Pindah ke directory lab_uas_web_TI19B2 :
 
 ```
-cd iuran_kas
+cd lab_uas_web_TI19B2
 ```
 
 ### Install dependency composer dengan git bash atau terminal:
